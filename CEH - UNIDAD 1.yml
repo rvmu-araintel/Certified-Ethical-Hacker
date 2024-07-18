@@ -17,7 +17,78 @@ Intelligence-based (design, protection, and denial of systems that seek sufficie
 dominate the battlespace).
 Eelectronic warfare (radio-electronic and cryptographic techniques).
 Psycological warfare (propaganda and terror to demoralize one’s adversary).
-Hacker Warfare
+Hacker Warfare (can vary from the shutdown of systems, data errors, theft of information).
 Economic Warfare (affect the economy of a business or nation)
 Cyberwarfare (use of information systems against the virtual personas of individuals or groups. It is 
 the broadest of all information warfare).
+
+Debemos conocer la metdología hacking del CEH (CHM):
+1. Footprinting
+2. Scanning
+3. Enumertion
+4. Vulnerability Analysis
+5. System Hacking
+  5.1 Gaining Access (Cracking passwords and vulnerability exploiting)
+  5.2 Escalating Privileges
+  5.3 Maintaining Access (Executing applications and hidding files)
+  5.4 Clearing logs (Covering Tracks)
+
+También el Cyber Kill Chain Metodology:
+Component of intelligence-driven defense for the identification and prevention of malicious 
+intrusion activities.
+1. Reconnoissance
+2. Weaponization
+3. Delivery
+4. Exploitation
+5. Installation
+6. C2
+7. Actions on Objectives
+
+También los patrones TTPs, Técnicas, tácticas y procedimientos:
+“Tactics” is defined as a guideline that describes the way an attacker performs their attack 
+from beginning to end, “techniques” is defined as the technical methods used by an attacker and 
+“procedures” is defined as the organizational approach followed by the threat actors to launch 
+their attack.
+
+Identificación del adversario:
+Identification of the common methods or techniques followed by an adversary to launch attacks.
+1. Internal Reconnoissance
+2. Use PoerShell
+3. Unspecified Proxy Activities
+4. Use of Command-Line Interface
+5. HTTP User A
+6. Command and Control Server
+7. Use of DNS Tunneling
+8. Use of Web Shell
+9. Data Staging
+
+Indicators of Compromise (IoCs):
+A good source of information about threats that serve as data points in the intelligence process.
+1. Email Indicators
+2. Network Indicators
+3. Host-Based Indicators
+4. Behavioral Indicators
+ ▪ Unusual outbound network traffic 
+ ▪ Unusual activity through a privileged user account 
+ ▪ Geographical anomalies 
+ ▪ Multiple login failures
+ ▪ Increased database read volume 
+ ▪ Large HTML response size 
+ ▪ Multiple requests for the same file 
+ ▪ Mismatched port-application traffic 
+ ▪ Suspicious registry or system file changes 
+ ▪ Unusual DNS requests 
+ ▪ Unexpected patching of systems
+
+Otro método o framework de trabajo es el MITRE ATT&CK Framework:
+A globally accessible knowledge base of adversary tactics and techniques based on real-world 
+observations.
+
+MITRE ATT&CK comprises three collections of tactics and techniques, called Enterprise, Mobile, 
+and PRE-ATT&CK matrices, as each collection is represented in a matrix form. ATT&CK for Enterprise 
+contains 14 categories of tactics, which are derived from the later stages (exploit, control, maintain,
+and execute) of the seven-stage Cyber Kill Chain. This provides a deeper level of granularity in 
+describing what can occur during an intrusion.
+
+
+
