@@ -2,19 +2,50 @@
 
 <list>
 <ul>
-<li>1. Nmap</li>
-<li>2. Angry IP Scan</li>
-<li>3. Megaping</li>
-<li>4. NetScanPro Beta</li>
-<li>5. SX</li>
+<li>Nmap</li>
+<li>Angry IP Scan</li>
+<li>Megaping</li>
+<li>NetScanPro Beta</li>
+<li>SX</li>
 
-<li>6. Zenmap</li>
--sT
--v
--T4
--a
--sS
--sX
--sM
+<li>Zenmap</li><br>
+Modificadores:
+<li>-sT</li>
+<li>-v</li>
+<li>-T4</li>
+<li>-a</li>
+<li>-sS</li>
+<li>-sX</li>
+<li>-sM</li>
 </ul>
 </list>
+
+Lab 3 Evading IDS
+Wireshark
+
+Nmap
+-O
+--script smb-os-discovery.nse
+
+unicornscan -Iv
+
+-mtu
+
+-D RND:10
+
+--spoof--mac 
+
+Create custom UDP y TCP
+
+Lab 5
+Scan with metasploit
+db_status
+msfdb init
+
+nmap -Pn -sS -A -oX Test
+db_import Test
+
+search
+
+...
+
