@@ -97,7 +97,7 @@ The important distinction between ethical hackers and crackers is consent. Crack
 unauthorized access to systems, while ethical hackers are always completely open and transparent about 
 what they are doing and how they are doing it. Ethical hacking is, therefore, always legal.</p>
 
-<h3>Tiger Team<>/h3
+<h3>Tiger Team</h3>
 <p>Ethical hackers determine the scope of the security assessment according to the client’s security 
 concerns. Many ethical hackers are members of a “Tiger Team.” A tiger team works together to perform 
 a full-scale test covering all aspects of the network, as well as physical and system intrusion.</p> 
@@ -124,6 +124,19 @@ The probability of the occurrence of an adverse event
 The consequence of the adverse event</p>
 
 <h3>Nivel de riesgo</h3>
+<p>Level of Risk = Consequence x Likelihood
+There are four risk levels, which include extreme, high, medium, and low levels.
+
+Likelihood: The chance of the risk occurring.
+Consequence: The severity of a risk event that occurs.
+
+Risk management is the process of reducing and maintaining risk at an acceptable level by means of a well-defined and actively employed security program; the process of identifying, assessing, responding to, and implementing the activities that control how the organization manages the potential effects of risk. Steps:
+Risk Identification ▪ Risk Assessment ▪ Risk Treatment ▪ Risk Tracking and Review
+
+<h3>Cyber Threat Intelligence</h3>
+<p>The collection and analysis of information about threats and adversaries and the drawing of patterns that provide the ability to make knowledgeable decisions for preparedness, prevention, and response actions against various cyber-attacks.
+
+Cyber threat intelligence helps the organization to identify and mitigate various business risks by converting unknown threats into known threats. It involves collecting, researching, and analyzing trends and technical developments in the field of cyber threats (including cybercrime, hacktivism, and espionage). Any knowledge about threats that results in an organization’s planning and decision-making to handle it is a piece of threat Intelligence.
 
 
 
