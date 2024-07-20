@@ -40,9 +40,20 @@ Enumerate information from Windows and Samba hosts using Enum4linux
 A NetBIOS name is a unique computer name assigned to Windows systems, comprising a 16-character ASCII string that identifies the network device over TCP/IP.
 
 ########################
-# ntbstat -a
-# ""      -c
-# net use
-# Netbios Enumerator
+ntbstat -a
+""      -c
+net use
+Netbios Enumerator
+
+nmap -sV -v --script nbstat.nse
+type nmap -sU -p 137 --script nbstat.nse
+nmap -sU -p 161
+snmp-check
+
+Network Scanner
+
 ########################
 
+snmpwalk -v1 -c public
+nmap -sU -p 161 --script=snmp-sysdescr
+nmap -sU -p 161 --script=snmp-interfaces
