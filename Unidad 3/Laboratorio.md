@@ -8,7 +8,7 @@
 <li>NetScanPro Beta</li>
 <li>SX</li>
 
-<li>Zenmap</li><br>
+<li>Zenmap</li>
 Modificadores:
 <li>-sT</li>
 <li>-v</li>
@@ -20,32 +20,20 @@ Modificadores:
 </ul>
 </list>
 
-Lab 3 Evading IDS
 Wireshark
-
 Nmap
 -O
 --script smb-os-discovery.nse
-
 unicornscan -Iv
-
 -mtu
-
 -D RND:10
-
 --spoof--mac 
 
 Create custom UDP y TCP
-
-Lab 5
 Scan with metasploit
 db_status
 msfdb init
 
 nmap -Pn -sS -A -oX Test
 db_import Test
-
 search
-
-...
-
