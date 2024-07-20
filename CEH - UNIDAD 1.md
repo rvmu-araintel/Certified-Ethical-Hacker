@@ -89,8 +89,8 @@ A good source of information about threats that serve as data points in the inte
 A globally accessible knowledge base of adversary tactics and techniques based on real-world 
 observations.
 
-MITRE ATT&CK comprises three collections of tactics and techniques, called Enterprise, Mobile, 
-and PRE-ATT&CK matrices, as each collection is represented in a matrix form. ATT&CK for Enterprise 
+<strong>MITRE ATT&CK comprises three collections of tactics and techniques, called Enterprise, Mobile, 
+and PRE-ATT&CK matrices, as each collection is represented in a matrix form</strong>. ATT&CK for Enterprise 
 contains 14 categories of tactics, which are derived from the later stages (exploit, control, maintain,
 and execute) of the seven-stage Cyber Kill Chain. This provides a deeper level of granularity in 
 describing what can occur during an intrusion.
@@ -102,25 +102,25 @@ The important distinction between ethical hackers and crackers is consent. Crack
 unauthorized access to systems, while ethical hackers are always completely open and transparent about 
 what they are doing and how they are doing it. Ethical hacking is, therefore, always legal.
 
-Tiger Team:
+<h3>Tiger Team<>/h3
 Ethical hackers determine the scope of the security assessment according to the client’s security 
 concerns. Many ethical hackers are members of a “Tiger Team.” A tiger team works together to perform 
 a full-scale test covering all aspects of the network, as well as physical and system intrusion. 
 
-Information Assurance:
+<h3>Information Assurance (IA)</h3>
 IA refers to the assurance that the integrity, availability, confidentiality, and authenticity of 
 information and information systems is protected during the usage, processing, storage, and transmission
 of information.
 
-Continual/Adaptive Security Strategy:
+<h3>Continual/Adaptive Security Strategy</h3>
  adaptive security strategy, which involves implementing all the four network security approaches
 ❑ The adaptive security strategy consists of four security activities corresponding to each security 
 approach, Protect, Detect, Respond, Predict. 
 
-Defense-in-Depth:
+<h3>Defense-in-Depth</h3>
 Several protection layers are placed throughout an information system.
 
-Riesgo:
+<h3>Riesgo</h3>
 The degree of uncertainty or expectation of potential damage that an adverse event may cause to the 
 system or its resources, under specified conditions.
 RISK = Threats x Vulnerabilities x Impact
