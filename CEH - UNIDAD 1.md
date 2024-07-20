@@ -1,17 +1,19 @@
 <h1>UNIDAD 1</h1>
 
+<h3>Ataque</h3>
 Un ataque es la suma de un motivo, un método y una vulnerabilidad.
 
-Debemos tener claros los elementos de la seguridad de la información:
-Confidencialidad, Integridad, Disponibilidad, Autenticidad y No Repudio.
-
 Se clasifican cinco tipos de ataques:
-Pasivos, activos, de cercanía, desde dentro, o por distribuición. 
+Pasivos, activos, de cercanía, desde dentro, o por distribuición.
 
+<h3>Elementos Seguridad de la Información</h3>
+Debemos tener claros los elementos de la seguridad de la información:
+Confidencialidad, Integridad, Disponibilidad, Autenticidad y No Repudio. 
+
+<h3>Infowar</h3>
 La guerra informática (Infowar) es el uso de cualquier tipo de tecnología para tener 
-ventaja competitiva sobre el oponente.
+ventaja competitiva sobre el oponente:
 
-Diferenciamos según Libicki:
 Command and Control (C2) (impact an attacker possesses over a compromised system or network).
 Intelligence-based (design, protection, and denial of systems that seek sufficient knowledge to 
 dominate the battlespace).
@@ -22,7 +24,8 @@ Economic Warfare (affect the economy of a business or nation)
 Cyberwarfare (use of information systems against the virtual personas of individuals or groups. It is 
 the broadest of all information warfare).
 
-Debemos conocer la metdología hacking del CEH (CHM):
+<h3>CHM</h3>
+<strong>Debemos conocer la metodología hacking del CEH (CHM):</strong>
 1. Footprinting
 2. Scanning
 3. Enumertion
@@ -33,6 +36,7 @@ Debemos conocer la metdología hacking del CEH (CHM):
   5.3 Maintaining Access (Executing applications and hidding files)
   5.4 Clearing logs (Covering Tracks)
 
+<h3>CKCM</h3>
 También el Cyber Kill Chain Metodology:
 Component of intelligence-driven defense for the identification and prevention of malicious 
 intrusion activities.
@@ -44,13 +48,14 @@ intrusion activities.
 6. C2
 7. Actions on Objectives
 
+<h3>TTPs</h3>
 También los patrones TTPs, Técnicas, tácticas y procedimientos:
 “Tactics” is defined as a guideline that describes the way an attacker performs their attack 
 from beginning to end, “techniques” is defined as the technical methods used by an attacker and 
 “procedures” is defined as the organizational approach followed by the threat actors to launch 
 their attack.
 
-Identificación del adversario:
+<h3>Identificación del adversario</h3>
 Identification of the common methods or techniques followed by an adversary to launch attacks.
 1. Internal Reconnoissance
 2. Use PoerShell
@@ -62,7 +67,7 @@ Identification of the common methods or techniques followed by an adversary to l
 8. Use of Web Shell
 9. Data Staging
 
-Indicators of Compromise (IoCs):
+<h3>Indicators of Compromise (IoCs)</h3>
 A good source of information about threats that serve as data points in the intelligence process.
 1. Email Indicators
 2. Network Indicators
@@ -80,7 +85,7 @@ A good source of information about threats that serve as data points in the inte
  ▪ Unusual DNS requests 
  ▪ Unexpected patching of systems
 
-Otro método o framework de trabajo es el MITRE ATT&CK Framework:
+<h3>MITRE ATT&CK Framework</h3>
 A globally accessible knowledge base of adversary tactics and techniques based on real-world 
 observations.
 
@@ -90,7 +95,7 @@ contains 14 categories of tactics, which are derived from the later stages (expl
 and execute) of the seven-stage Cyber Kill Chain. This provides a deeper level of granularity in 
 describing what can occur during an intrusion.
 
-¿Pero qué es el Hacking Ético?:
+<h3>Hacking Ético</h3>
 The practice of employing computer and network skills in order to assist organizations in testing their
 network security for possible loopholes and vulnerabilities. Diferenciar hacker, hackear y crackear.
 The important distinction between ethical hackers and crackers is consent. Crackers attempt to gain 
