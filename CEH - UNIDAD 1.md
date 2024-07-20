@@ -1,4 +1,4 @@
-UNIDAD 1
+<h1>UNIDAD 1</h1>
 
 Un ataque es la suma de un motivo, un método y una vulnerabilidad.
 
@@ -89,6 +89,40 @@ and PRE-ATT&CK matrices, as each collection is represented in a matrix form. ATT
 contains 14 categories of tactics, which are derived from the later stages (exploit, control, maintain,
 and execute) of the seven-stage Cyber Kill Chain. This provides a deeper level of granularity in 
 describing what can occur during an intrusion.
+
+¿Pero qué es el Hacking Ético?:
+The practice of employing computer and network skills in order to assist organizations in testing their
+network security for possible loopholes and vulnerabilities. Diferenciar hacker, hackear y crackear.
+The important distinction between ethical hackers and crackers is consent. Crackers attempt to gain 
+unauthorized access to systems, while ethical hackers are always completely open and transparent about 
+what they are doing and how they are doing it. Ethical hacking is, therefore, always legal.
+
+Tiger Team:
+Ethical hackers determine the scope of the security assessment according to the client’s security 
+concerns. Many ethical hackers are members of a “Tiger Team.” A tiger team works together to perform 
+a full-scale test covering all aspects of the network, as well as physical and system intrusion. 
+
+Information Assurance:
+IA refers to the assurance that the integrity, availability, confidentiality, and authenticity of 
+information and information systems is protected during the usage, processing, storage, and transmission
+of information.
+
+Continual/Adaptive Security Strategy:
+ adaptive security strategy, which involves implementing all the four network security approaches
+❑ The adaptive security strategy consists of four security activities corresponding to each security 
+approach, Protect, Detect, Respond, Predict. 
+
+Defense-in-Depth:
+Several protection layers are placed throughout an information system.
+
+Riesgo:
+The degree of uncertainty or expectation of potential damage that an adverse event may cause to the 
+system or its resources, under specified conditions.
+RISK = Threats x Vulnerabilities x Impact
+RISK = Threat × Vulnerability × Asset Value
+The probability of the occurrence of an adverse event 
+The consequence of the adverse event
+
 
 
 
